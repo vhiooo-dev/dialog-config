@@ -1,0 +1,17 @@
+{
+  "show": false,
+  "required_version": "1.1",
+
+  "title": "New Version Available",
+  "message": "We’ve added new features and improvements. Update now to check them out!",
+
+  "image": "https://img.sanishtech.com/u/9043a9d233f50001d290fbf8973e62a6.jpg",
+
+  "button1_text": "Download",
+  "button1_link": "https://www.youtube.com/@VrayyOF",
+
+  "button2_text": "Exit",
+
+  "cancelable": false
+}
+
