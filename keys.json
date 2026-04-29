@@ -1,16 +1,20 @@
 {
   "require_key": true,
-
   "keys": [
     {
       "key": "ABC123",
-      "max_use": 2,
+      "enabled": true,
       "expire": "2026-05-10"
     },
     {
       "key": "VIP999",
-      "max_use": -1,
+      "enabled": true,
       "expire": "2027-01-01"
+    },
+    {
+      "key": "OFFKEY",
+      "enabled": false,
+      "expire": "2026-01-01"
     }
   ]
 }
