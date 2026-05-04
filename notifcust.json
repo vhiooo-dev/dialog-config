@@ -1,7 +1,9 @@
 {
   "show": true,
-  "title": "TEST",
-  "message": "Welcome to Vray Hub",
-  "image": "https://your-image-link.png",
-  "duration": 5000
+  "title": "VRAYY HUB",
+  "message": "Welcome to the app!",
+  "image": "https://via.placeholder.com/300.png",
+  "duration": 5000,
+  "click_type": "activity",
+  "target": "UsernameActivity"
 }
