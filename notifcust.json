@@ -4,7 +4,6 @@
   "message": "Welcome!",
   "image": "https://via.placeholder.com/300.png",
   "duration": 3000,
-  "click_type": "activity",
-  "target": "DashboardActivity",
-  "repeat": 3
+  "repeat": 3,
+  "target": "DashboardActivity"
 }
